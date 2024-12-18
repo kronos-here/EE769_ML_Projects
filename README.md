@@ -5,14 +5,14 @@ This repository showcases the projects completed as part of the **EE769 - Introd
 ## Project Folders Overview
 
 1. **Regression Model built from scratch**
-   - **Description:** Implemented transfer learning with a pre-trained ResNet model to classify images of bees and ants.
+   - **Description:** Implemented regression to predict the surface temperature of the Sun using sorted-out astronomical parameters.
 
 2. **Comprehensive Classifier Testing and Parameter Optimization**
-   - **Description:** Compared multiple classifiers and fine-tuned hyperparameters using GridSearchCV to identify the optimal model.
+   - **Description:** Compared the performance metrics of multiple classifiers and auto-selected (based on the dataset) hyperparameters using GridSearchCV to identify the optimal model.
 
 3. **Image Classifier, Clustering of Data and Data Feature Engineering
-   - 1. Bees vs Ants Image Classification Using Transfer Learning
-   - 2. K-Means Clustering of Numerical Data
+   - 1. Bees vs Ants Image Classification and Feature Extraction using a pre-trained Network and finetuning it,
+   - 2. K-Means Clustering of unknown Numerical Data
    - 3. Feature Engineering of Data using PCA
    - 4. Feature Engineering using Kernelized PCA
 
